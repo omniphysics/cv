@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  margin: auto;
+}
+
+.intro h2 {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.intro small {
+  display: flex;
+  justify-content: center;
+}
+
+h3 {
+  text-decoration: underline;
+}
+.profile {
+  margin-left: 30px;
+}
+
+.profile p {
+  padding-top: 5px;
+}
+
+.education {
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.education p {
+  padding-top: 5px;
+  display: flex;
+}
+
+.experience {
+  margin-left: 30px;
+}
+
+.experience p {
+  padding-top: 5px;
+  font-weight: bold;
+}
+
+.home {
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.home p {
+  font-weight: bold;
+}
+
+.leadership {
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.leadership p {
+  font-weight: bold;
+  padding-top: 5px;
+}
+
+.skills {
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.skills ul {
+  padding-top: 5px;
+}
